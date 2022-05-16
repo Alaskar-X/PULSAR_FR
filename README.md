@@ -1,8 +1,7 @@
 <h1>Traduction FR - PULSAR: Lost Colony</h1>
 <hr></hr>
-<b>Quelques informations sur la trad:</b><br />
-_Traduction : 100% effective<br />
-_Révision : 2.8% contrôlée<br />
+<b>Quelques informations sur la traduction:</b><br />
+https://steamcommunity.com/sharedfiles/filedetails/?id=2560647031
 <br />
 Mise à jour réguliere !<br />
 N'hesitez pas à nous faire des retours / adaptations !<br />
