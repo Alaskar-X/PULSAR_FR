@@ -7,10 +7,7 @@ _Révision : 2.8% contrôlée<br />
 Mise à jour réguliere !<br />
 N'hesitez pas à nous faire des retours / adaptations !<br />
 <br />
-<br />
-  <b>Lien discord:</b><br />
-  https://discord.gg/7CJExvPKq4<br />
-<br />
+
 <br />
   <b>Remerciements:</b><br />
 _Lenm!rEnch3natur<br />
